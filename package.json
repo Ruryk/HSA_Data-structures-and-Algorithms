@@ -1,0 +1,16 @@
+{
+  "name": "hsa12-20.-data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "- Implement class for Balanced Binary Search Tree that can insert, find and delete elements.\r - Generate 100 random datasets and measure complexity.\r - Implement Counting Sort algorithm.\r - Figure out when Counting Sort doesn’t perform.",
+  "main": "app/index.ts",
+  "scripts": {
+    "start": "ts-node app/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  }
+}
